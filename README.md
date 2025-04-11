@@ -1,4 +1,4 @@
-[![MasterHead]("E:\img\img.png")](https://rishavchanda.io)
+[![MasterHead]("https://imgur.com/a/HeYAVhO")](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Pritam</h1>
 <h3 align="center">A passionate python developer from India</h3>
