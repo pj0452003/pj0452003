@@ -1,4 +1,4 @@
-[![MasterHead]("https://imgur.com/a/HeYAVhO")](https://rishavchanda.io)
+[![MasterHead]("https://ibb.co/k69CsrkG")](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Pritam</h1>
 <h3 align="center">A passionate python developer from India</h3>
