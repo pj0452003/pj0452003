@@ -1,4 +1,5 @@
-[![MasterHead]("https://ibb.co/k69CsrkG")](https://rishavchanda.io)
+[![MasterHead](https://github.com/pj0452003/pj0452003/blob/main/img.png?raw=true)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Pritam</h1>
 <h3 align="center">A passionate python developer from India</h3>
