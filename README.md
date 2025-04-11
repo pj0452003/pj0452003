@@ -1,4 +1,5 @@
-[![MasterHead](https://github.com/pj0452003/pj0452003/blob/main/img.png?raw=true)](https://rishavchanda.io)
+<img src="https://github.com/pj0452003/pj0452003/blob/main/img.png?raw=true" width="2000" height="600" alt="MasterHead"/>
+
 
 
 <h1 align="center">Hi 👋, I'm Pritam</h1>
